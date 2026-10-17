@@ -264,15 +264,6 @@ The easiest way to run this project — **no code, no Python, no pip needed**. J
 
 ### Prerequisites
 
-- Docker installed
-
-### Docker Hub Images
-
-| Image | Link |
-|-------|------|
-| Backend | [vviiishu/insurance_premium_backend](https://hub.docker.com/r/vviiishu/insurance_premium_backend) |
-| Frontend | [vviiishu/insurance_premium_frontend](https://hub.docker.com/r/vviiishu/insurance_premium_frontend) |
-
 ### Steps
 
 **1. Pull both images from Docker Hub**
@@ -466,11 +457,6 @@ Predicts the insurance premium category for a given user.
 
 ## Author
 
-**Vishal Kumar Puri**
+**Prashant Kumar Puri**
 
 Data Analyst | Machine Learning | Python | FastAPI | Streamlit | SQL | Power BI
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/vishal-kumar-puri-846ba5288)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/vviiishu)
-[![Docker Hub](https://img.shields.io/badge/Docker%20Hub-vviiishu-blue?logo=docker)](https://hub.docker.com/u/vviiishu)
-[![Render](https://img.shields.io/badge/Deployed%20on-Render-46E3B7?logo=render)](https://insurance-frontend-j8wn.onrender.com)
